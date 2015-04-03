@@ -6,4 +6,5 @@ SOURCES += stdsoap2.cpp \
            envC.cpp
 
 OTHER_FILES += soap.nsmap \
-               readme.md
+               readme.md \
+               soap.pri
